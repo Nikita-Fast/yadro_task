@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/yadro_task.dir/src/awgn_channel.cpp.o CMakeFiles/yadro_task.dir/src/main.cpp.o CMakeFiles/yadro_task.dir/src/qam_demodulator.cpp.o CMakeFiles/yadro_task.dir/src/qam_modulator.cpp.o -o yadro_task  -Wl,-rpath,/usr/lib/python3.10/config-3.10-x86_64-linux-gnu /usr/lib/python3.10/config-3.10-x86_64-linux-gnu/libpython3.10.so 
