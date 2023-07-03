@@ -1,3 +1,0 @@
-/home/fastmi/projects/yadro/build/CMakeFiles/yadro_task.dir
-/home/fastmi/projects/yadro/build/CMakeFiles/edit_cache.dir
-/home/fastmi/projects/yadro/build/CMakeFiles/rebuild_cache.dir
